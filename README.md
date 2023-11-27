@@ -1,6 +1,6 @@
 # actividad_3
 
-A new Flutter project.
+Proyecto Flutter para actividad 3
 
 ## Getting Started
 
