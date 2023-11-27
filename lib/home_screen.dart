@@ -106,7 +106,7 @@ class HomeScreen extends StatelessWidget {
         ),
       ),
       floatingActionButton: FloatingActionButton(
-        onPressed: () => _showToast('Realizado por Maykel Rhenals'),
+        onPressed: () => _showToast('Realizado por MR, HT y LC'),
         child: Icon(Icons.info),
       ),
     );
